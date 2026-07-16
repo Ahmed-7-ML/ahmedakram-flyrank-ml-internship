@@ -1,0 +1,15 @@
+[project]
+name = "ahmedakram-flyrank-ml-internship"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "joblib>=1.5.3",
+    "matplotlib>=3.9.4",
+    "numpy>=2.0.2",
+    "pandas>=2.3.3",
+    "reportlab>=5.0.0",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+]
